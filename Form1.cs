@@ -14,6 +14,7 @@ namespace AppCurrencyConversion
     {
         public Form1()
         {
+
             InitializeComponent();
         }
     }
