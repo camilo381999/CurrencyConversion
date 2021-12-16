@@ -85,7 +85,6 @@
     <Folder Include="Pruebas\Repositorios\" />
     <Folder Include="Recursos\" />
     <Folder Include="Repositorios\" />
-    <Folder Include="Utilidades\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
