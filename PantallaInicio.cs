@@ -10,11 +10,10 @@ using System.Windows.Forms;
 
 namespace AppCurrencyConversion
 {
-    public partial class Form1 : Form
+    public partial class PantallaInicio : Form
     {
-        public Form1()
+        public PantallaInicio()
         {
-
             InitializeComponent();
         }
     }
