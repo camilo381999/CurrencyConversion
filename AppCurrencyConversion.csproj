@@ -79,16 +79,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controladores\" />
-    <Folder Include="Infraestructura\" />
-    <Folder Include="Presentacion\" />
-    <Folder Include="Pruebas\Controladores\" />
-    <Folder Include="Pruebas\Presentacion\" />
-    <Folder Include="Pruebas\Repositorios\" />
-    <Folder Include="Recursos\" />
-    <Folder Include="Repositorios\" />
-    <Folder Include="Utilidades\" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
