@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCurrencyConversion", "AppCurrencyConversion.csproj", "{95A6BFE9-16F8-4FF6-9303-9C7564D67BD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "..\Controlador\Controlador.csproj", "{487C835D-EC44-4290-9751-F0A439A29042}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{95A6BFE9-16F8-4FF6-9303-9C7564D67BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95A6BFE9-16F8-4FF6-9303-9C7564D67BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95A6BFE9-16F8-4FF6-9303-9C7564D67BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487C835D-EC44-4290-9751-F0A439A29042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487C835D-EC44-4290-9751-F0A439A29042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487C835D-EC44-4290-9751-F0A439A29042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487C835D-EC44-4290-9751-F0A439A29042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
